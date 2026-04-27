@@ -1,0 +1,2 @@
+I am a+ method of file handlingI am a+ method of file handling
+I am new line text
